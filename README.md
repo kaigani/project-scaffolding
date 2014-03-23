@@ -19,15 +19,19 @@ Includes a .gitignore file for OSX .DS_store files.
 -	documentation
 **examples /**
 **ext /**
--	external integration API - via plugin & extensions
+-	external applications, plugins & extensions
 **lib / node_modules /**
--	3rd party javascript includes for build
+-	Standalone javascript includes for build, usually 3rd party
 -	node.js modules
+**resources /**
+-	Source materials for assets, artwork, templates, fonts - not part of the build
 **src /**
 -	source scripts in including the main, app.js file or similar
 -	HTML/CSS view templates
+-	final assets for build
 **test /**
 -	unit tests
+-	debugging tools
 
 # Additional useful files #
 

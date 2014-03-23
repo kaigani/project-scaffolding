@@ -1,0 +1,3 @@
+- external applications, plugin & extensions
+
+-- for instance - MacOSX helper applications, Windows executables

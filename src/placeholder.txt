@@ -1,0 +1,3 @@
+-	source scripts in including the main, app.js file or similar
+-	HTML/CSS view templates
+-	final assets for build
